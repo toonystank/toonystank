@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![Hits](https://hits.sh/github.com/toonystank/toonystank.svg?style=for-the-badge&label=Profile%20visit&color=0098ff)](https://hits.sh/github.com/toonystank/toonystank/)
 <!--
 **toonystank/toonystank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
